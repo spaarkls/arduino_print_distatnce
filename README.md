@@ -1,4 +1,4 @@
-### arduino_print_distatnce
+## Aduino print distatnce
 Print the distance to the display.
 
 Source code for a print distance built with an Arduino.
